@@ -1,13 +1,10 @@
-## Portflio Projects
+# Portflio Projects
 This portfolio of projects consisits of 4 seperate projects. 
 
-# Project 1: Data Cleaning in SQL.
-
-# SQL Data Cleaning:
-
+## Project 1: Data Cleaning in SQL.
 Data cleaning is a key component to any Data Analysis project. Some of the key reasons as to why include:
 
-**Ensures Data Quality*:
+**Ensures Data Quality**:
 Accuracy and Consistency: Data cleaning removes errors, duplicates, and inconsistencies, ensuring that the data is accurate and reliable for analysis.
 
 **Prevents Errors in Analysis**:
@@ -33,13 +30,25 @@ Based on some of the key fields, such as ParcelID, PropertyAddress , SalePrice, 
 
 ## Project 2: **Exploratroy Data Analysis - COVID 19**
 
-For this project, we initially explored detailed COVID 19 data in SQL. We ustilised the data to explore the fluctuations of COVID 19 over time in certain regions. 
+For this project, we initially explored detailed COVID 19 data in SQL from the period of May 2020 - May 2022. We ustilised the data to explore the fluctuations of COVID 19 over time in certain regions. 
 
 • We use SQL to identify key trends in the data, as well as clean the data. This is to ensure that it is ready for analysis in Tableau (refer to below link). 
 
-• As can be seen from the visualization of the results, the United Kingdom had one of the highest percentages of COVID, with just short of 35% (at the time this analysis was conducted.)
-
 https://public.tableau.com/app/profile/james.savage4094/viz/CovidDashboard_16640149367760/Dashboard1 
+
+**Tableau Analysis**
+
+• Using Tableau allowed to to visually represent some of the key insights ipn visually fiendly manor. Additionally, we were able to forecast out what the trends looked like through until the end of 2023. 
+
+• Some key take aways from the analysis:
+
+**1** - The United Kingdom had highest percentages of COVID per capita, with just short of 35% (forecaseted to be ~44% by the end of 2023.)
+
+ **2** - United States had the second highest capita at 28%. 
+
+ **3** - The death rate of people with COVID was 1.06%, with a count of ~ 6.48M deaths. 
+
+ **4** - Higher Income Earning continents have the highest number of deaths with ~ 2.6M deaths, followed closely by the Upper Middle income earning consintinents with ~ 2.4M deaths. 
 
 Project 1:
 This looks at cleaning data in SQL. The dataset being used here is the Nashville housing dataset.
