@@ -1,7 +1,7 @@
-### Portflio Projects
+## Portflio Projects
 This portfolio of projects consisits of 4 seperate projects. 
 
-## Project 1: Data Cleaning in SQL.
+# Project 1: Data Cleaning in SQL.
 
 # SQL Data Cleaning:
 
