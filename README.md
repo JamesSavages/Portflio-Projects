@@ -50,11 +50,8 @@ https://public.tableau.com/app/profile/james.savage4094/viz/CovidDashboard_16640
 
  **4** - Higher Income Earning continents have the highest number of deaths with ~ 2.6M deaths, followed closely by the Upper Middle income earning consintinents with ~ 2.4M deaths. 
 
-Project 1:
-This looks at cleaning data in SQL. The dataset being used here is the Nashville housing dataset.
-
-Project 3:
+## Project 3:
 This looks at movie correlation in python, examining the correlation of various variables with moviess gross sales. 
 
-Project 4:
+## Project 4:
 A review of the top 10 regions affected by the COVID 19 in India. The aim is to identify the primary regions to dispose vacinations. 
